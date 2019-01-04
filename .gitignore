@@ -1,1 +1,5 @@
-local.properties.
+local.properties
+Application/build*
+Application/release*
+*.DS_STORE*
+build*

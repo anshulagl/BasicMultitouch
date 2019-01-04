@@ -10,7 +10,7 @@
         android:padding="75dp"
         android:text="@string/intro_message" />
 
-    <com.example.android.basicmultitouch.TouchDisplayView
+    <com.mobileninjas.android.basicmultitouch.TouchDisplayView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 
